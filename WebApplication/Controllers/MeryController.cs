@@ -6,12 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebApplication.Controllers
 {
-    public class DNiceController : Controller
+    public class MeryController : Controller
     {
         public IActionResult Index()
         {
-            return View ("Seeya");
-
+            return View();
         }
     }
 }
