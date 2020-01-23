@@ -10,7 +10,6 @@ namespace WebApplication.Controllers
     {
         public IActionResult Index()
         {
-            // Hello Ana!
             return View();
         }
     }
