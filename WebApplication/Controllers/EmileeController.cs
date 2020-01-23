@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebApplication.Controllers
 {
-    public class MarkController : Controller
+    public class EmileeController : Controller
     {
         public IActionResult Index()
         {
